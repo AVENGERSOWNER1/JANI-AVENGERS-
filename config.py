@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ISTKHAR_BABY_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","RP_Lover_Baby")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NOORXMUSICBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Mehakmusicbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Noor")
+BOT_NAME = getenv("BOT_NAME" , "Mehak")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "alishaxd")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Jani")
 # ---------------------------------------------------------
 
 
@@ -36,10 +36,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002014882444))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002734717816))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7995626429))
+OWNER_ID = int(getenv("OWNER_ID", 7804939544))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VIP_RAM_HACKER_PR")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/VIP_RAM_HACKER_PR")
-SOURCE = getenv("SOURCE", "https://t.me/VIP_RAM_HACKER_PR")
-CHAT = getenv("CHAT", "https://t.me/VIP_RAM_HACKER_PR")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_RP")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+7ROq61PIXmE5NmU1")
+SOURCE = getenv("SOURCE", "https://t.me/Jani_RP")
+CHAT = getenv("CHAT", "https://t.me/+7ROq61PIXmE5NmU1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -139,10 +139,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/f8ghro.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/h1z7dr.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/f8ghro.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/h1z7dr.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/66b7bb1cf206376dd5ceb-03d047178a9c3418c9.jpg"
 STATS_IMG_URL = "https://graph.org/file/7db127c0ab5acc37bdfa5-30891a03d37366afbe.jpg"
@@ -184,4 +184,4 @@ if SUPPORT_CHAT:
 # ----------------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------------
 
-CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1002014882444))
+CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1002734717816))
