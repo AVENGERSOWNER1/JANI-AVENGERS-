@@ -69,10 +69,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"http://t.me/RAM_HACKER_RP"
+                text="˹𝗛𝗲𝗹𝗽˼", url=f"http://t.me/RP_Lover_Baby"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/VIP_RAM_HACKER_PR"
+                text="˹𝗨𝗽𝗱𝗮𝘁𝗲˼", url=f"https://t.me/Jani_RP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -236,10 +236,10 @@ def stream_markup2(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"http://t.me/RAM_HACKER_RP"
+                text="˹𝗛𝗲𝗹𝗽˼", url=f"http://t.me/RP_Lover_Baby"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/VIP_RAM_HACKER_PR"
+                text="˹𝗨𝗽𝗱𝗮𝘁𝗲˼", url=f"https://t.me/Jani_RP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -525,10 +525,10 @@ def panel_markup_clone(_, vidid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"https://t.me/ll_ISTKHAR_BABY_lll"
+                text="˹𝗛𝗲𝗹𝗽˼", url=f"https://t.me/RP_Lover_Baby"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρρяτ ˼", url=f"https://t.me/THUNDERDEVS"
+                text="˹𝗨𝗽𝗱𝗮𝘁𝗲˼", url=f"https://t.me/Jani_RP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
